@@ -142,13 +142,11 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
+
 
 <div align='center'>
 
-<h3><b>Life is a journey, not a destination</b></h3>
-<br>
+<h3><b>"Life is a journey, not a destination"</b></h3>
 <i>Ralph Waldo Emerson</i>
 
 </div>
