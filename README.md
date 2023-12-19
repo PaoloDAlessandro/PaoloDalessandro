@@ -11,7 +11,7 @@
 
 - A passionate Self-taught Front-end developer
 - Higher VET Certificate in Software Architecture at ITS Angelo Rizzoli 
-- I'm currently working at <a href="https://easylivery.it/" target="blank">Easylivery</a> on <b>Next.js, React, Typescript, Tailwind</b>
+- I'm currently working at <a href="https://becreatives.com/it/" target="blank">Becreatives</a> on <b>Remix, Next.js, React, Typescript, Tailwind</b>
 
 <br>
 
